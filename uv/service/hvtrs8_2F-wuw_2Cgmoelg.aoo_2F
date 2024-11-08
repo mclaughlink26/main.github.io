@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script __uv-script="1">self.__uv$bareData = { "versions": ["v1", "v2"], "language": "Cloudflare", "project": { "name": "bare-server-worker", "description": "TOMPHTTP Cloudflare Bare Server", "repository": "https://github.com/tomphttp/bare-server-worker", "version": "1.2.2" } }; self.__uv$cookies = ""; self.__uv$referrer = ""; self.__uv$bareURL = "https://solitary-haze-aa1f.projectorsum.workers.dev/"; </script>
+    <script src="/uv/uv.bundle.js" __uv-script="1"></script>
+    <script src="/uv/uv.client.js" __uv-script="1"></script>
+    <script src="/uv/uv.config.js" __uv-script="1"></script>
+    <script src="/uv/uv.handler.js" __uv-script="1"></script>
+    <meta __uv-attr-http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1">
+    <title>https://www.google.com/</title>
+</head>
+
+<body
+    style="font-family:arial,sans-serif;background-color:#fff;color:#000;padding:20px;font-size:18px;overscroll-behavior:contain"
+    onload="e=document.getElementById('captcha');if(e){e.focus();} if(solveSimpleChallenge) {solveSimpleChallenge(,);}"
+    __uv-attr-style="font-family: arial, sans-serif; background-color: #fff; color: #000; padding:20px; font-size:18px; overscroll-behavior:contain;"
+    __uv-attr-onload="e=document.getElementById('captcha');if(e){e.focus();} if(solveSimpleChallenge) {solveSimpleChallenge(,);}">
+    <div style="max-width:400px" __uv-attr-style="max-width:400px;">
+        <hr noshade="" size="1" style="color:#ccc;background-color:#ccc"
+            __uv-attr-style="color:#ccc; background-color:#ccc;"><br>
+        <form id="captcha-form"
+            action="https://sz-games.github.io/uv/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2Fqopr%7B%2Fknfez" method="post"
+            __uv-attr-action="index">
+            <noscript>
+                <div style="font-size:13px;">
+                    In order to continue, please enable javascript on your web browser.
+                </div>
+            </noscript>
+            <script src="https://sz-games.github.io/uv/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2Fpeaartahc%2Fcpk.hs" async=""
+                defer="" __uv-attr-src="https://www.google.com/recaptcha/api.js"></script>
+            <script>var submitCallback = function (response) { document.getElementById('captcha-form').submit(); };</script>
+            <div id="recaptcha" class="g-recaptcha" data-sitekey="6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b"
+                data-callback="submitCallback"
+                data-s="uAk71ov-jGyvRjnnudmAGp6NFE99Qrrn2wdK-F7Al3y8L03OSOzfgqGMq8Aj8xQ64Fh53osRluIeGvAGSQzBauBgifPDOUFqq7M66FEbC-IUrfd9fqc5ivo5cL2OR8KHhYODEfokyFR-R6-bWvOi-C0XVr06JjyRYb_iHGwMoeL5-zhXvHVQ_g-diKr91_ttk31kjhP5UzSLtIq5QlxQ9CZ1LD8OoVx5GD1nhHfZwQqX_xSY3z586b-h__Ms3UUWJopMbBNtiuauwPEsnWk">
+            </div>
+
+            <input type="hidden" name="q"
+                value="EgSsRDa2GKKAhbkGIilMsXnBiUvJGm8IFoudQ1WI4qtr-FtfsWyLTdaOfb7YaMZpTcsICWKu7jIBcloBQw"><input
+                type="hidden" name="continue" value="https://www.google.com/">
+        </form>
+        <hr noshade="" size="1" style="color:#ccc;background-color:#ccc"
+            __uv-attr-style="color:#ccc; background-color:#ccc;">
+
+        <div style="font-size:13px" __uv-attr-style="font-size:13px;">
+            <b>About this page</b><br><br>
+
+            Our systems have detected unusual traffic from your computer network. This page checks to see if it's really
+            you sending the requests, and not a robot. <a href="#"
+                onclick="document.getElementById('infoDiv').style.display='block';" __uv-attr-href="#"
+                __uv-attr-onclick="document.getElementById('infoDiv').style.display='block';">Why did this
+                happen?</a><br><br>
+
+            <div id="infoDiv"
+                style="display:none;background-color:#eee;padding:10px;margin:0 0 15px 0;line-height:1.4em"
+                __uv-attr-style="display:none; background-color:#eee; padding:10px; margin:0 0 15px 0; line-height:1.4em;">
+                This page appears when Google automatically detects requests coming from your computer network which
+                appear to be in violation of the <a
+                    href="https://sz-games.github.io/uv/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2Froniaigs-tgros-"
+                    __uv-attr-href="//www.google.com/policies/terms/">Terms of Service</a>. The block will expire
+                shortly after those requests stop. In the meantime, solving the above CAPTCHA will let you continue to
+                use our services.<br><br>This traffic may have been sent by malicious software, a browser plug-in, or a
+                script that sends automated requests. If you share your network connection, ask your administrator for
+                help â€” a different computer using the same IP address may be responsible. <a
+                    href="https://sz-games.github.io/uv/service/hvtrs8%2F-swpropt%2Cgmoelg.aoo%2Fue%60sgapcj%2Fcnqwgr-84660"
+                    __uv-attr-href="//support.google.com/websearch/answer/86640">Learn more</a><br><br>Sometimes you may
+                be asked to solve the CAPTCHA if you are using advanced terms that robots are known to use, or sending
+                requests very quickly.
+            </div>
+
+            IP address: 172.68.55.162<br>Time: 2024-10-29T20:05:54Z<br>URL: https://www.google.com/<br>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
