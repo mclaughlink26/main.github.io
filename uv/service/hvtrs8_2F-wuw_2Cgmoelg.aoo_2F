@@ -3,10 +3,10 @@
 
 <head>
     <script __uv-script="1">self.__uv$bareData = { "versions": ["v1", "v2"], "language": "Cloudflare", "project": { "name": "bare-server-worker", "description": "TOMPHTTP Cloudflare Bare Server", "repository": "https://github.com/tomphttp/bare-server-worker", "version": "1.2.2" } }; self.__uv$cookies = ""; self.__uv$referrer = ""; self.__uv$bareURL = "https://solitary-haze-aa1f.projectorsum.workers.dev/"; </script>
-    <script src="/uv/uv.bundle.js" __uv-script="1"></script>
-    <script src="/uv/uv.client.js" __uv-script="1"></script>
-    <script src="/uv/uv.config.js" __uv-script="1"></script>
-    <script src="/uv/uv.handler.js" __uv-script="1"></script>
+    <script src="uv/uv.bundle.js" __uv-script="1"></script>
+    <script src="uv/uv.client.js" __uv-script="1"></script>
+    <script src="uv/uv.config.js" __uv-script="1"></script>
+    <script src="uv/uv.handler.js" __uv-script="1"></script>
     <meta __uv-attr-http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="initial-scale=1">
     <title>https://www.google.com/</title>
